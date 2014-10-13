@@ -10,3 +10,4 @@ Second in the branch
 
 From Desktop
 
+Test of notification
