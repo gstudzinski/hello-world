@@ -11,3 +11,5 @@ Second in the branch
 From Desktop
 
 Test of notification
+
+Test of unwatch
